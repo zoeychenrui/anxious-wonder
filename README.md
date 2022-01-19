@@ -4,4 +4,5 @@
 by: Zoey Chen
 for: Javascript Fall 2021 Final Project
 
-Kierkegaard explains anxiety as the dizzying effect of freedom, of paralyzing possibility, of the boundlessness of one’s own existence
+"Kierkegaard explains anxiety as the dizzying effect of freedom, of paralyzing possibility, of the boundlessness of one’s own existence"
+concept inspired by this article from The Marginalian: https://www.themarginalian.org/2013/06/19/kierkegaard-on-anxiety-and-creativity/
