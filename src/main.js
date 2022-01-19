@@ -25,7 +25,7 @@ function setup() {
   // displays text
   select('#message').position(0, MESSAGE_TOP)
 
-  // rotating tunnel effect? 
+  // rotating tunnel effect
   strokeWeight(2)
   
   r = 50;
